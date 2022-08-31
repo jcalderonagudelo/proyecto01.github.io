@@ -132,7 +132,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(""), url("./images/bg-section-top-mobile-1.svg");
+  background-image: url(""), url("images/bg-section-top-mobile-1.svg");
   background-repeat: no-repeat, no-repeat;
   background-position-y: top, bottom;
 }
@@ -197,7 +197,7 @@ body {
 }
 @media (min-width: 1440px) {
   .section-stats {
-    background-image: url(""), url("./images/bg-section-top-desktop-1.svg");
+    background-image: url(""), url("images/bg-section-top-desktop-1.svg");
   }
 }
 
