@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections
 
-![Header/intro section for the Huddle landing page with curved sections](./design/desktop-preview.jpg)
+[Ir al sitio web](proyecto01.guthub.io)
 
 ## Welcome! 👋
 
