@@ -1,6 +1,6 @@
 # Frontend Mentor - Huddle landing page with curved sections
 
-[Ir al sitio web](proyecto01.guthub.io)
+[Ir al sitio web](https://proyecto01.guthub.io)
 
 ## Welcome! 👋
 
